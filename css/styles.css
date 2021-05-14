@@ -1,0 +1,128 @@
+body {
+  background-color: #f7f6e7;
+  font-family: 'PT Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #1687a7;
+  font-size: 60px;
+  margin-top: 0;
+  line-height: 40px;
+  font-weight: normal;
+}
+
+h2 {
+  color: #1687a7;
+  font-size: 40px;
+  margin-top: 0;
+}
+
+h3 {
+  color: #1687a7;
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+#title {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 50px auto 50px auto;
+  width: 75%;
+  text-align: center;
+}
+
+a {
+  color: #0e49b5;
+}
+
+hr {
+  border-top: 5px dotted black;
+  width: 15%;
+  margin: 50px auto 50px auto;
+}
+
+.top-container {
+  padding-bottom: 100px;
+}
+
+.bottom-cloud {
+  color: blue;
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+}
+
+.building {
+  position: relative;
+  top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.computer-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.python-image {
+  width: 25%;
+  float: right;
+  margin-right: 20px;
+}
+
+.browser-image {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.bottom-container {
+  background-color: #a5e1ad;
+  margin: 50px auto auto auto;
+  padding: 20px;
+}
+
+#SP {
+  color: white;
+}
+
+.footer-link {
+  margin: 10px;
+}
+
+.BUTTON_ZRH {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 16px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
